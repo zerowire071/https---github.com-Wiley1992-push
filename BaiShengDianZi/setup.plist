@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://zerowire.apphb.com/BaiShengDianZi/setup.ipa</string>
+					<string>https://github.com/zerowire071/https---github.com-Wiley1992-push/BaiShengDianZi/setup.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
